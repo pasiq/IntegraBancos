@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<driver>com.mysql.jdbc.Driver</driver>
+	<url>jdbc:mysql://192.168.25.2:3306/mercado_a</url>
+	<tabela>produtos</tabela>
+	<produto>produto</produto>
+	<preco>preco</preco>
+	<usuario>root</usuario>
+	<senha></senha>
+</config>
